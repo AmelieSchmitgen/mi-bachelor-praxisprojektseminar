@@ -1,6 +1,6 @@
 ---
-nachname: Mamudi Schmitgen
-vorname: Nora Amelie
+nachname: Nora Mamudi 
+vorname:  Amelie Schmitgen
 datum: 2025-01-14
 uhrzeit: 10-00
 raum:  3.216
